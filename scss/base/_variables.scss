@@ -1,0 +1,17 @@
+
+/* ----- VARIABLES ---------------------------------------------------------- */
+
+$neutral-color: #fff;
+$black-color: #000;
+$main-color: #00BFF2;
+
+$primary-color: #fa6067;
+$primary-dark-color: #323232;
+
+//RESPONSIVE
+$breakpoints: (
+'lg': (max-width: 1199px),
+'md': (max-width: 991px),
+'sm': (max-width: 767px),
+'xs': (max-width: 480px)
+);
