@@ -1,15 +1,15 @@
 .row{
   margin: 0 0 20px 0;
 }
+.image__block {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
 .favourite__block {
   padding: 0 0 50px 0;
   text-align: center;
   box-shadow: 2px -3px 20px 0px rgba(35, 51, 55, 0.13);
-  .image__block {
-    height: 200px;
-    background-size: cover;
-    background-position: center;
-  }
   h2 {
     font-weight: 700;
     color: $main-color;
